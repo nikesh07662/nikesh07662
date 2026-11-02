@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Typing SVG Banner -->
+  <!-- Smooth Typing SVG Banner (Optimized: zero layout shift, smooth duration & cadence) -->
   <a href="https://github.com/nikesh07662">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hey+there!+%F0%9F%91%8B+I'm+Nikesh+Hingu;CS+Student+%F0%9F%8E%93;Frontend+%26+Web+Dev+Enthusiast;Building+Practical+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&height=50&lines=Hey+there!+%F0%9F%91%8B+I'm+Nikesh+Hingu;CS+Student+%F0%9F%8E%93;Frontend+%26+Web+Dev+Enthusiast;Building+Practical+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" width="520" height="50" />
   </a>
 
   <p>
@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,fastapi,cs,unity,postgres,docker,js,html,css,git,github,vscode" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,fastapi,cs,unity,postgres,docker,js,html,css,git,github,vscode&theme=dark" alt="Skills" />
   </a>
 </p>
 
@@ -94,12 +94,12 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikesh07662&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="Nikesh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikesh07662&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikesh07662&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" alt="Nikesh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikesh07662&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" alt="GitHub Streak" width="48%" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikesh07662&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikesh07662&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
