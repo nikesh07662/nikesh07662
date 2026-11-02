@@ -94,12 +94,12 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikesh07662&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" alt="Nikesh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikesh07662&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" alt="GitHub Streak" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=nikesh07662&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Nikesh's GitHub Stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nikesh07662&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="49%" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikesh07662&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=nikesh07662&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---
